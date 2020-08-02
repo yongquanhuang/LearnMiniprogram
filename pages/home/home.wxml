@@ -1,0 +1,5 @@
+<!--pages/home/home.wxml-->
+<text>Hello World</text>
+<button>test</button>
+
+
